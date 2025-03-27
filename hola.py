@@ -1,0 +1,1 @@
+print("bienvenido a la lavanderia uab")
